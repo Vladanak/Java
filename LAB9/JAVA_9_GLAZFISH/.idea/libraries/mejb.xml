@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mejb">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/glassfish4/glassfish/lib/install/applications/mejb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

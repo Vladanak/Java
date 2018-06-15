@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="endorsed">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/glassfish4/glassfish/modules/endorsed/javax.annotation-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/glassfish4/glassfish/modules/endorsed/jaxb-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/glassfish4/glassfish/modules/endorsed/webservices-api-osgi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

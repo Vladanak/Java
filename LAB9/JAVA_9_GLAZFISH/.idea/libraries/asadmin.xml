@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="asadmin">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/glassfish4/glassfish/lib/asadmin/osgi-cli-interactive.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/glassfish4/glassfish/lib/asadmin/cluster-cli.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/glassfish4/glassfish/lib/asadmin/server-mgmt.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/glassfish4/glassfish/lib/asadmin/cli-optional.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

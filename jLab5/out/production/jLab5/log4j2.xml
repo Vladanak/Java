@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <!-- Секция аппендеров -->
+    <Appenders>
+        <!-- Файловый аппендер -->
+        <File name="file" fileName="log\air.log">
+            <PatternLayout>
+                <Pattern>%d{dd.MM.yyyy HH:mm:ss} [%t] %-5p %c %x - %m%n</Pattern>
+            </PatternLayout>
+        </File>
+    </Appenders>
+    <!-- Секция логгеров -->
+    <Loggers>
+        <!-- Корневой логгер -->
+        <Root level="trace">
+            <AppenderRef ref="file" level="DEBUG"/>
+        </Root>
+        <!-- Логгер нашего класса -->
+        <Logger name="by.belstu.it.sazanovec.main.Main" level="info" additivity="false">
+            <AppenderRef ref="file" level="INFO"/>
+        </Logger>
+    </Loggers>
+</Configuration>

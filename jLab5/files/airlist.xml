@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="air.xsl"?>
+<airlist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://www.example.com/airlist"
+         xsi:schemaLocation="http://www.example.com/airlist airlist.xsd">
+    <air airType="Boeing707">
+        <loadCapacity>1000</loadCapacity>
+        <countPassengers>60</countPassengers>
+        <range>5150</range>
+        <speed>888</speed>
+    </air>
+    <air airType="IL76">
+        <loadCapacity>600</loadCapacity>
+        <countPassengers>20</countPassengers>
+        <range>4679</range>
+        <speed>690</speed>
+    </air>
+    <air airType="A320">
+        <loadCapacity>800</loadCapacity>
+        <countPassengers>70</countPassengers>
+        <range>4100</range>
+        <speed>768</speed>
+    </air>
+</airlist>

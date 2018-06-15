@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="console-core-4.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/glassfish4/glassfish/lib/install/applications/__admingui/WEB-INF/lib/console-core-4.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

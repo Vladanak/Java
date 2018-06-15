@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.example.com/airlist"
+        xmlns:tns="http://www.example.com/airlist"
+        elementFormDefault="qualified">
+    <element name="airlist">
+        <complexType>
+            <sequence>
+                <element name="air" type="tns:Air" minOccurs="1" maxOccurs="unbounded"/>
+            </sequence>
+        </complexType>
+    </element>
+    <complexType name="Air">
+        <sequence>
+            <element name="loadCapacity" type="positiveInteger" />
+            <element name="countPassengers" type="positiveInteger" />
+            <element name="range" type="positiveInteger" />
+            <element name="speed" type="positiveInteger" />
+        </sequence>
+        <attribute name="airType" default="Boeing707">
+            <simpleType>
+                <restriction base="string">
+                    <enumeration value="Boeing707"/>
+                    <enumeration value="IL76"/>
+                    <enumeration value="A320"/>
+                </restriction>
+            </simpleType>
+        </attribute>
+    </complexType>
+</schema>

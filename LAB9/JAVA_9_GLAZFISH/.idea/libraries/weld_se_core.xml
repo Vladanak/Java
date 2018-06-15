@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="weld-se-core">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/glassfish4/glassfish/lib/appclient/weld-se-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

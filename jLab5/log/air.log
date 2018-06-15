@@ -1,0 +1,349 @@
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - airlist schemaLocation=http://www.example.com/airlist airlist.xsd
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+    
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - air
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - loadCapacity
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 1000
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - loadCapacity
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - countPassengers
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 60
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - countPassengers
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - range
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 5150
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - range
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - speed
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 888
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - speed
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - airType
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - Boeing707
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - airType
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+    
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - air
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+    
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - air
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - loadCapacity
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 600
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - loadCapacity
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - countPassengers
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 20
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - countPassengers
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - range
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 4679
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - range
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - speed
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 690
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - speed
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - airType
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - IL76
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - airType
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+    
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - air
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+    
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - air
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - loadCapacity
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 800
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - loadCapacity
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - countPassengers
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 70
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - countPassengers
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - range
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 4100
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - range
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - speed
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 768
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - speed
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - airType
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - A320
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - airType
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+    
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - air
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - airlist
+23.04.2018 12:20:21 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+23.04.2018 12:47:04 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - airlist schemaLocation=http://www.example.com/airlist airlist.xsd
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+    
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - air airType=Boeing707
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - loadCapacity
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 1000
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - loadCapacity
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - countPassengers
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 60
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - countPassengers
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - range
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 5150
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - range
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - speed
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 888
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - speed
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+    
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - air
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+    
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - air airType=IL76
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - loadCapacity
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 600
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - loadCapacity
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - countPassengers
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 20
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - countPassengers
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - range
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 4679
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - range
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - speed
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 690
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - speed
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+    
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - air
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+    
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - air airType=A320
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - loadCapacity
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 800
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - loadCapacity
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - countPassengers
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 70
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - countPassengers
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - range
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 4100
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - range
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+        
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - speed
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 768
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - speed
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+    
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - air
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - airlist
+23.04.2018 12:47:05 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+01.05.2018 22:10:28 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+01.05.2018 22:10:28 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+01.05.2018 22:10:28 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+01.05.2018 22:10:28 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+02.05.2018 23:49:53 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+02.05.2018 23:49:53 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+02.05.2018 23:49:53 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+02.05.2018 23:49:53 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+02.05.2018 23:52:22 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+02.05.2018 23:52:22 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+02.05.2018 23:52:22 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+02.05.2018 23:52:22 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+02.05.2018 23:58:43 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+02.05.2018 23:58:43 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+02.05.2018 23:58:43 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+02.05.2018 23:58:43 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:04:28 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:04:28 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:04:28 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:04:28 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:05:18 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:05:18 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:05:18 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:05:18 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:13:50 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:13:50 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:13:50 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:13:50 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:14:32 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:14:32 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:14:32 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:14:32 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:35:17 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:35:17 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:35:17 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:35:17 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:35:18 [main] ERROR by.belstu.it.sazanovec.main.Main [] - ошибка I/O потока src\files\serialize.xml (Системе не удается найти указанный путь)
+03.05.2018 00:37:03 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:37:03 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:37:03 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:37:03 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:39:35 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:39:36 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:39:36 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:39:36 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:50:23 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:50:23 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:50:23 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:50:23 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:51:11 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:51:11 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:51:11 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:51:11 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:51:12 [main] ERROR by.belstu.it.sazanovec.main.Main [] - com.google.gson.stream.MalformedJsonException: Expected EOF at line 1 column 68
+03.05.2018 00:52:25 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:52:25 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:52:25 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:52:25 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:52:26 [main] ERROR by.belstu.it.sazanovec.main.Main [] - com.google.gson.stream.MalformedJsonException: Expected EOF at line 1 column 68
+03.05.2018 00:53:25 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:53:26 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:53:26 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:53:26 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:56:43 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:56:43 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:56:43 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:56:43 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:56:45 [main] ERROR by.belstu.it.sazanovec.main.Main [] - Unable to invoke no-args constructor for interface by.belstu.it.sazanovec.air.Air. Register an InstanceCreator with Gson for this type may fix this problem.
+03.05.2018 00:57:01 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:57:01 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:57:01 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:57:01 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:57:02 [main] ERROR by.belstu.it.sazanovec.main.Main [] - Unable to invoke no-args constructor for interface by.belstu.it.sazanovec.air.Air. Register an InstanceCreator with Gson for this type may fix this problem.
+03.05.2018 00:57:54 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:57:54 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:57:54 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:57:54 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:57:55 [main] ERROR by.belstu.it.sazanovec.main.Main [] - com.google.gson.stream.MalformedJsonException: Expected EOF at line 1 column 68
+03.05.2018 00:59:15 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:59:15 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:59:15 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:59:15 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 00:59:36 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 00:59:36 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 00:59:36 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 00:59:36 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 01:02:56 [main] ERROR by.belstu.it.sazanovec.main.Main [] - com.google.gson.stream.MalformedJsonException: Expected EOF at line 1 column 68
+03.05.2018 12:28:03 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 12:28:03 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 12:28:03 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 12:28:03 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+03.05.2018 12:28:46 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+03.05.2018 12:28:46 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+03.05.2018 12:28:46 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+03.05.2018 12:28:46 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+07.05.2018 11:54:52 [main] INFO  by.belstu.it.sazanovec.main.Main [] - Starting program___
+07.05.2018 11:54:53 [main] INFO  by.belstu.it.sazanovec.ValidatorSAXXSD [] - files/airlist.xml is valid.
+07.05.2018 11:54:53 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing started
+07.05.2018 11:54:53 [main] INFO  by.belstu.it.sazanovec.parser.AirHandler [] - 
+Parsing ended
+07.05.2018 12:13:39 [main] INFO  by.belstu.it.sazanovec.airmanager.AirManager [] - MinskAirport: total passengers capacity is 0
+07.05.2018 12:15:02 [main] INFO  by.belstu.it.sazanovec.airmanager.AirManager [] - MinskAirport: total load capacity is 210
+07.05.2018 12:15:54 [main] INFO  by.belstu.it.sazanovec.airmanager.AirManager [] - MinskAirport: total load capacity is 390
+07.05.2018 12:19:05 [main] INFO  by.belstu.it.sazanovec.airmanager.AirManager [] - MinskAirport: total load capacity is 390
+07.05.2018 12:19:05 [main] INFO  by.belstu.it.sazanovec.airmanager.AirManager [] - MinskAirport: total load capacity is 390
+07.05.2018 12:19:10 [main] INFO  by.belstu.it.sazanovec.airmanager.AirManager [] - MinskAirport: total load capacity is 390
+07.05.2018 12:19:10 [main] INFO  by.belstu.it.sazanovec.airmanager.AirManager [] - MinskAirport: total load capacity is 390
+07.05.2018 12:35:11 [Thread-0] INFO  by.belstu.it.sazanovec.airmanager.AirManager [] - MinskAirport: total passengers capacity is 135
+07.05.2018 12:36:47 [main] INFO  by.belstu.it.sazanovec.airmanager.AirManager [] - MinskAirport: total load capacity is 390
+07.05.2018 12:36:59 [Thread-0] INFO  by.belstu.it.sazanovec.airmanager.AirManager [] - MinskAirport: total passengers capacity is 135
+07.05.2018 12:36:59 [main] INFO  by.belstu.it.sazanovec.airmanager.AirManager [] - MinskAirport: total load capacity is 390
+07.05.2018 12:37:33 [Thread-0] INFO  by.belstu.it.sazanovec.airmanager.AirManager [] - MinskAirport: total passengers capacity is 135
+07.05.2018 13:08:30 [Thread-0] INFO  by.belstu.it.sazanovec.airmanager.AirManager [] - MinskAirport: total passengers capacity is 135

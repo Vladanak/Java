@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA_9_GLAZFISH.iml" filepath="$PROJECT_DIR$/JAVA_9_GLAZFISH.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/glassfish4/glassfish/domains/domain1/generated/jsp/jsp.iml" filepath="$USER_HOME$/Desktop/glassfish4/glassfish/domains/domain1/generated/jsp/jsp.iml" />
+    </modules>
+  </component>
+</project>
